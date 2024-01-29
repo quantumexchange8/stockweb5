@@ -4,7 +4,7 @@
 
 <!--Page Header Start-->
 <section class="page-header">
-    <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
+    <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/contact-bckg.jpg)">
     </div>
     <div class="page-header-shape-1 float-bob-x-6"></div>
     <div class="page-header-shape-2 float-bob-x-7"></div>
@@ -28,19 +28,21 @@
             <div class="col-xl-12">
                 <div class="contact-details__inner">
                     <div class="contact-details__map-box">
-                        <iframe
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.8706329965416!2d101.7191260749711!3d3.1288813968465976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc370206a41739%3A0x5b44dec2a4052249!2sCurrent%20Tech%20Industries%20Sdn%20Bhd!5e0!3m2!1sen!2smy!4v1706522658424!5m2!1sen!2smy" allowfullscreen="" class="contact-details__map">
+                        </iframe>
+                        {{-- <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
                             class="contact-details__map" allowfullscreen>
 
-                        </iframe>
+                        </iframe> --}}
                     </div>
                     <div class="contact-details__content">
                         <div class="contact-details__title-box">
                             <h4 class="contact-details__title">Get in Touch</h4>
-                            <p class="contact-details__text">Nulla quis commodo ligula. Curabitur bibendum ante
-                                at nibh lobortis, nec volutpat mauris faucibus.</p>
+                            <p class="contact-details__text">
+                                We are a global management consulting firm dedicated to assisting businesses with financial solutions.</p>
                         </div>
-                        <p class="contact-details__address">60 Road Broklyn Golden Street of New York. USA</p>
+                        <p class="contact-details__address">VO6-03-08, Signature 2, Lingkaran SV, Sunway Velocity, 55100 Cheras, Federal Territory of Kuala Lumpur</p>
                         <div class="contact-details__contact-info">
                             <div class="contact-details__contact-icon">
                                 <span class="icon-phone1"></span>
@@ -209,7 +211,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="site-footer__bottom-inner">
-                        <p class="site-footer__bottom-text">© Copyright 2021 by <a href="#">Layerdrops.com</a>
+                        <p class="site-footer__bottom-text">© Copyright <span id="currentYear"></span></a>
                         </p>
                     </div>
                 </div>

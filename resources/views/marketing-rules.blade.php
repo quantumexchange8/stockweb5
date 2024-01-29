@@ -66,7 +66,7 @@
                             <h3 class="service-details__title">Marketing Rules</h3>
                         </div>
                         <p class="service-details__text-1">Acknowledging market volatility, we invest in carefully researched stocks in collaboration with our trusted partners.</p>
-                        <h4 class="service-sub-details__title">Mutual Funds</h4> {{--New--}}
+                        <h4 id="mutual" class="service-sub-details__title">Mutual Funds</h4> {{--New--}}
                         <p class="service-details__text-2">
                             Participating in cooperative funding schemes can substantially enhance returns in comparison to individual investment plans. <br>
                             We offer a diverse array of mutual funds, thoroughly assessed to measure their comprehensive performance spectrum. <br>
@@ -86,7 +86,7 @@
                             <p class="service-details__two-icon-content">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
                         </li>
                     </ul> --}}
-                    <h4 class="service-sub-details__title">Stocks</h4>
+                    <h4 id="stocks" class="service-sub-details__title">Stocks</h4>
                     <p class="service-details__text-3">
                         We empower clients to engage in stock and share trading, offering a range of options from globally recognized corporations. <br>
                         Our experts meticulously analyze company reports and statements, carefully selecting investment opportunities that provide optimal returns with minimal risk. <br>
@@ -291,7 +291,8 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="site-footer__bottom-inner">
-                        <p class="site-footer__bottom-text">© Copyright 2021 by <a href="#">Layerdrops.com</a></p>
+                        <p class="site-footer__bottom-text">© Copyright <span id="currentYear"></span></a>
+                        </p>
                     </div>
                 </div>
             </div>

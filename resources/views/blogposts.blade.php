@@ -4,7 +4,7 @@
 
 <!--Page Header Start-->
 <section class="page-header">
-    <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
+    <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/blog-bckg.jpg)">
     </div>
     <div class="page-header-shape-1 float-bob-x-6"></div>
     <div class="page-header-shape-2 float-bob-x-7"></div>
@@ -29,17 +29,16 @@
                 <!--News One Single-->
                 <div class="news-one__single">
                     <div class="news-one__img">
-                        <img src="assets/images/blog/news-1-1.jpg" alt="">
+                        <img src="assets/images/backgrounds/financial-bckg.jpg" alt="">
                         <a href="blog-details.html">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
                     <div class="news-one__content">
                         <p class="news-one__sub-title">finance</p>
-                        <h3 class="news-one__title"><a href="blog-details.html">Accounting Support During the
-                                Exponential Growth</a></h3>
+                        <h3 class="news-one__title"><a href="/financial-advice#mergers">Experience in navigating corporations</a></h3>
                         <ul class="list-unstyled news-one__meta">
-                            <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
+                            <li><a href="blog-details.html"><i class="far fa-clock"></i> 22 Jan, 2024</a></li>
                             <li><span>/</span></li>
                             <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
                             </li>
@@ -51,15 +50,14 @@
                 <!--News One Single-->
                 <div class="news-one__single">
                     <div class="news-one__img">
-                        <img src="assets/images/blog/news-1-2.jpg" alt="">
+                        <img src="assets/images/services/service-1.jpg" alt="">
                         <a href="blog-details.html">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
                     <div class="news-one__content">
                         <p class="news-one__sub-title">finance</p>
-                        <h3 class="news-one__title"><a href="blog-details.html">At the end of the day, going
-                                forward, a new normal</a></h3>
+                        <h3 class="news-one__title"><a href="/financial-advice#raising">Oslim Investment: <br>Navigating 2007's Financial Downturn</a></h3>
                         <ul class="list-unstyled news-one__meta">
                             <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
                             <li><span>/</span></li>
@@ -73,15 +71,14 @@
                 <!--News One Single-->
                 <div class="news-one__single">
                     <div class="news-one__img">
-                        <img src="assets/images/blog/news-1-3.jpg" alt="">
+                        <img src="assets/images/backgrounds/marketing-bckg.jpg" alt="">
                         <a href="blog-details.html">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
                     <div class="news-one__content">
-                        <p class="news-one__sub-title">finance</p>
-                        <h3 class="news-one__title"><a href="blog-details.html">Taking seamless key performance
-                                indicators offline </a></h3>
+                        <p class="news-one__sub-title">marketing</p>
+                        <h3 class="news-one__title"><a href="/marketing-rules#mutual">Diversified Investments, Maximum Returns</a></h3>
                         <ul class="list-unstyled news-one__meta">
                             <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
                             <li><span>/</span></li>
@@ -95,15 +92,14 @@
                 <!--News One Single-->
                 <div class="news-one__single">
                     <div class="news-one__img">
-                        <img src="assets/images/blog/news-1-4.jpg" alt="">
+                        <img src="assets/images/services/service-2.jpg" alt="">
                         <a href="blog-details.html">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
                     <div class="news-one__content">
-                        <p class="news-one__sub-title">finance</p>
-                        <h3 class="news-one__title"><a href="blog-details.html">Competently parallel task fully
-                                researched data and</a></h3>
+                        <p class="news-one__sub-title">marketing</p>
+                        <h3 class="news-one__title"><a href="/marketing-rules#stocks">Empowering Clients Worldwide in Stock and Share Trading</a></h3>
                         <ul class="list-unstyled news-one__meta">
                             <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
                             <li><span>/</span></li>
@@ -117,15 +113,14 @@
                 <!--News One Single-->
                 <div class="news-one__single">
                     <div class="news-one__img">
-                        <img src="assets/images/blog/news-1-5.jpg" alt="">
+                        <img src="assets/images/backgrounds/track-details-bckg.jpg" alt="">
                         <a href="blog-details.html">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
                     <div class="news-one__content">
-                        <p class="news-one__sub-title">finance</p>
-                        <h3 class="news-one__title"><a href="blog-details.html">Uniquely enable accurate supply
-                                chains rather than</a></h3>
+                        <p class="news-one__sub-title">track</p>
+                        <h3 class="news-one__title"><a href="/track-details#track">Oslim Consultants: Pioneering Robust Returns Since 2015</a></h3>
                         <ul class="list-unstyled news-one__meta">
                             <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
                             <li><span>/</span></li>
@@ -139,15 +134,14 @@
                 <!--News One Single-->
                 <div class="news-one__single">
                     <div class="news-one__img">
-                        <img src="assets/images/blog/news-1-6.jpg" alt="">
+                        <img src="assets/images/backgrounds/track-record-bckg.jpg" alt="">
                         <a href="blog-details.html">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
                     <div class="news-one__content">
-                        <p class="news-one__sub-title">finance</p>
-                        <h3 class="news-one__title"><a href="blog-details.html"> Dramatically engage high-payoff
-                                info mediaries rather than</a></h3>
+                        <p class="news-one__sub-title">track</p>
+                        <h3 class="news-one__title"><a href="/track"> Proven Success: Oslim Consultants' Track Record </a></h3>
                         <ul class="list-unstyled news-one__meta">
                             <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
                             <li><span>/</span></li>
@@ -158,7 +152,7 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        {{-- <div class="row">
             <div class="col-lg-12">
                 <div class="blog-pagination">
                     <a class="prev page-numbers" href="#"><i class="fa fa-angle-left"></i></a>
@@ -167,7 +161,7 @@
                     <a class="next page-numbers" href="#"><i class="fa fa-angle-right"></i></a> </div>
                 <!-- /.blog-pagination -->
             </div><!-- /.col-lg-12 -->
-        </div>
+        </div> --}}
     </div>
 </section>
 <!--News One End-->
@@ -249,7 +243,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="site-footer__bottom-inner">
-                        <p class="site-footer__bottom-text">© Copyright 2021 by <a href="#">Layerdrops.com</a>
+                        <p class="site-footer__bottom-text">© Copyright <span id="currentYear"></span></a>
                         </p>
                     </div>
                 </div>

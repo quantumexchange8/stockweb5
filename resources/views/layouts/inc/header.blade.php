@@ -25,17 +25,17 @@
                             </ul>
                         </li>
                         <li class="dropdown {{ Request::is('about-us', 'faq') ? 'current' : '' }}">
-                            <a href="/about-us">Pages</a>
+                            <a href="/about-us">About</a>
                             <ul>
                                 <li><a href="/about-us">About Us</a></li>
                                 <li><a href="/faq">FAQs</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown {{ Request::is('cases', 'cases-details') ? 'current' : '' }}">
-                            <a href="#">Track</a>
+                        <li class="dropdown {{ Request::is('track', 'track-details') ? 'current' : '' }}">
+                            <a href="/track-details">Track</a>
                             <ul>
-                                <li><a href="/cases">Track Record</a></li>
-                                <li><a href="/cases-details">Track Details</a></li>
+                                <li><a href="/track-details">Track Details</a></li>
+                                <li><a href="/track">Track Record</a></li>
                             </ul>
                         </li>
                         <li class="dropdown {{ Request::is('blog-posts', 'blogposts-rightsidebar') ? 'current' : '' }}">

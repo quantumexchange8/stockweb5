@@ -492,7 +492,8 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="site-footer__bottom-inner">
-                        <p class="site-footer__bottom-text">© Copyright 2021 by <a href="#">Layerdrops.com</a></p>
+                        <p class="site-footer__bottom-text">© Copyright <span id="currentYear"></span></a>
+                        </p>
                     </div>
                 </div>
             </div>

@@ -48,6 +48,13 @@
     <link rel="stylesheet" href="{{ asset('assets/css/oslim.css')}}" />
     <link rel="stylesheet" href="{{ asset('assets/css/oslim-responsive.css')}}" />
 
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            // Set the text content of the element with id 'currentYear'
+            document.getElementById('currentYear').innerText = new Date().getFullYear();
+        });
+    </script>
+
 </head>
 
 <body>

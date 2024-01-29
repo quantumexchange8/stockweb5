@@ -26,7 +26,7 @@
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <div class="image-layer"
-                    style="background-image: url(assets/images/backgrounds/main-slider-1-1.jpg);">
+                    style="background-image: url(assets/images/backgrounds/index-1-bckg.jpg);">
                 </div>
                 <!-- /.image-layer -->
                 <div class="main-slider-shape-1"></div>
@@ -36,7 +36,7 @@
                     <div class="row">
                         <div class="col-xl-7">
                             <div class="main-slider__content">
-                                <h2>Award <br> winning <br> consulting</h2>
+                                <h2>Welcome<br>to Oslim <br> Consultants</h2>
                                 <a href="about.html" class="thm-btn">Discover More</a>
                             </div>
                         </div>
@@ -45,7 +45,7 @@
             </div>
             <div class="swiper-slide">
                 <div class="image-layer"
-                    style="background-image: url(assets/images/backgrounds/main-slider-1-2.jpg);">
+                    style="background-image: url(assets/images/backgrounds/about-us-mission.jpg);">
                 </div>
                 <!-- /.image-layer -->
                 <div class="main-slider-shape-1"></div>
@@ -55,7 +55,7 @@
                     <div class="row">
                         <div class="col-xl-7">
                             <div class="main-slider__content">
-                                <h2>Award <br> winning <br> consulting</h2>
+                                <h2>Achieve <br> Financial <br> Goal</h2>
                                 <a href="about.html" class="thm-btn">Discover More</a>
                             </div>
                         </div>
@@ -64,7 +64,7 @@
             </div>
             <div class="swiper-slide">
                 <div class="image-layer"
-                    style="background-image: url(assets/images/backgrounds/main-slider-1-3.jpg);">
+                    style="background-image: url(assets/images/backgrounds/marketing-bckg.jpg);">
                 </div>
                 <!-- /.image-layer -->
                 <div class="main-slider-shape-1"></div>
@@ -74,7 +74,7 @@
                     <div class="row">
                         <div class="col-xl-7">
                             <div class="main-slider__content">
-                                <h2>Award <br> winning <br> consulting</h2>
+                                <h2>Worldwide <br> Network <br> Support</h2>
                                 <a href="about.html" class="thm-btn">Discover More</a>
                             </div>
                         </div>
@@ -107,8 +107,7 @@
                     <div class="welcome-one__top-left">
                         <div class="section-title text-left">
                             <span class="section-title__tagline">welcome to our agency</span>
-                            <h2 class="section-title__title">Secure & Safe Advices for your Small & Big
-                                Businesses</h2>
+                            <h2 class="section-title__title">Receive secure and reliable advice for both your small and large businesses</h2>
                         </div>
                     </div>
                 </div>
@@ -127,8 +126,8 @@
                             </ul>
                         </div>
                         <div class="welcome-one__video-link wow fadeInRight" data-wow-delay="200ms"
-                            style="background-image: url(assets/images/backgrounds/welcome-one-video-link-bg.jpg);">
-                            <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
+                            style="background-image: url(assets/images/backgrounds/video-bckg.jpg); background-repeat: no-repeat; background-position-y:30%;">
+                            <a href="https://www.youtube.com/watch?v=CU4l_rs50Kk" class="video-popup">
                                 <div class="welcome-one__video-icon">
                                     <span class="fas fa-play"></span>
                                 </div>
@@ -142,8 +141,8 @@
             <ul class="list-unstyled welcome-one__feature">
                 <li class="welcome-one__feature-single wow fadeInUp" data-wow-delay="100ms">
                     <div class="welcome-one__feature-content">
-                        <h3 class="welcome-one__feature-title"><a href="consumer-product.html">Wealth <br>
-                                Management</a></h3>
+                        <h3 class="welcome-one__feature-title"><a href="consumer-product.html">Financial <br>
+                                Advice</a></h3>
                         <div class="welcome-one__feature-arrow">
                             <a href="consumer-product.html"><span class="icon-right-arrow"></span></a>
                         </div>
@@ -155,8 +154,8 @@
                 </li>
                 <li class="welcome-one__feature-single wow fadeInUp" data-wow-delay="200ms">
                     <div class="welcome-one__feature-content">
-                        <h3 class="welcome-one__feature-title"><a href="audit-marketing.html">Audit <br>
-                                Marketing</a></h3>
+                        <h3 class="welcome-one__feature-title"><a href="audit-marketing.html">Marketing <br>
+                                Rules</a></h3>
                         <div class="welcome-one__feature-arrow">
                             <a href="audit-marketing.html"><span class="icon-right-arrow"></span></a>
                         </div>
@@ -168,8 +167,8 @@
                 </li>
                 <li class="welcome-one__feature-single wow fadeInUp" data-wow-delay="300ms">
                     <div class="welcome-one__feature-content">
-                        <h3 class="welcome-one__feature-title"><a href="financial-advice.html">Finance <br>
-                                Consulting</a></h3>
+                        <h3 class="welcome-one__feature-title"><a href="financial-advice.html">Track <br>
+                                Record</a></h3>
                         <div class="welcome-one__feature-arrow">
                             <a href="financial-advice.html"><span class="icon-right-arrow"></span></a>
                         </div>
@@ -199,8 +198,8 @@
                     <div class="work-together__img-box">
                         <div class="work-together-shape-1"><img
                                 src="assets/images/shapes/work-together-shape-1.png" alt=""></div>
-                        <div class="work-together__img-1">
-                            <img src="assets/images/resources/work-together-img-1.jpg" alt="">
+                        <div class="work-together__img-1" style="background-image: url(assets/images/backgrounds/video-bckg.jpg); background-repeat: no-repeat; background-position-y:30%;">
+                            {{-- <img src="assets/images/resources/about-us-building.jpg" alt=""> --}}
                             <div class="work-together__img-2">
                                 <img src="assets/images/resources/work-together-img-2.jpg" alt="">
                             </div>
@@ -848,7 +847,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="site-footer__bottom-inner">
-                        <p class="site-footer__bottom-text">© Copyright 2021 by <a href="#">Layerdrops.com</a>
+                        <p class="site-footer__bottom-text">© Copyright <span id="currentYear"></span></a>
                         </p>
                     </div>
                 </div>

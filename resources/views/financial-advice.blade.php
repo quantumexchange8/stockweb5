@@ -66,7 +66,7 @@
                             <h3 class="service-details__title">Financial Advice</h3>
                         </div>
                         <p class="service-details__text-1">SPS Investment provides an extensive range of services, including strategic advice, mergers & acquisitions, capital raising, strategic consulting, and the implementation of financial solutions.</p>
-                        <h4 class="service-sub-details__title">Mergers and Acquisitions</h4> {{--New--}}
+                        <h4 id="mergers" class="service-sub-details__title">Mergers and Acquisitions</h4> {{--New--}}
                         <p class="service-details__text-2">At SPS Investment, our seasoned consultants possess vast experience in navigating corporations through different stages of the business cycle, 
                             from start-ups to mergers and expansions. 
                             We comprehend the intricacies of mergers and acquisitions and are committed to minimizing risks for all stakeholders. <br>
@@ -88,7 +88,7 @@
                             <p class="service-details__two-icon-content">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
                         </li>
                     </ul> --}}
-                    <h4 class="service-sub-details__title">Raising Capital</h4>
+                    <h4 id="raising" class="service-sub-details__title">Raising Capital</h4>
                     <p class="service-details__text-3">SPS Investment's steadfast dedication to our clients played a crucial role in our resilience during the devastating 
                         financial downturn of 2007. Leveraging our profound market understanding and capital access, we not only withstood the challenges but also prospered 
                         alongside our clients through strategic expansion and successful takeovers. <br>
@@ -294,7 +294,8 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="site-footer__bottom-inner">
-                        <p class="site-footer__bottom-text">© Copyright 2021 by <a href="#">Layerdrops.com</a></p>
+                        <p class="site-footer__bottom-text">© Copyright <span id="currentYear"></span></a>
+                        </p>
                     </div>
                 </div>
             </div>

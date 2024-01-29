@@ -67,14 +67,14 @@ Route::get('/faq', function () {
     return view('faq');
 });
 
-//cases page
-Route::get('/cases', function () {
-    return view('cases');
+//track page
+Route::get('/track', function () {
+    return view('track');
 });
 
-// cases details 
-Route::get('/cases-details', function () {
-    return view('casesdetails');
+// track details 
+Route::get('/track-details', function () {
+    return view('trackdetails');
 });
 
 // blog posts 
