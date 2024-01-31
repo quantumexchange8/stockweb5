@@ -4,16 +4,16 @@
 
 <!--Page Header Start-->
 <section class="page-header">
-    <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/marketing-bckg.jpg)">
+    <div class="page-header-bg" style="background-image: url({{ asset("assets/images/backgrounds/marketing-bckg.jpg")}})">
     </div>
     <div class="page-header-shape-1 float-bob-x-6"></div>
     <div class="page-header-shape-2 float-bob-x-7"></div>
     <div class="container">
         <div class="page-header__inner">
             <ul class="thm-breadcrumb list-unstyled">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <li><span>/</span></li>
-                <li><a href="services.html">Services</a></li>
+                <li><a href="/financial-advice">Services</a></li>
                 <li><span>/</span></li>
                 <li>service Details</li>
             </ul>
@@ -56,7 +56,7 @@
             <div class="col-xl-8 col-lg-7">
                 <div class="service-details__right">
                     <div class="service-details__img">
-                        <img src="assets/images/services/service-2.jpg" alt="">
+                        <img src={{ asset("assets/images/services/service-2.jpg")}} alt="service">
                     </div>
                     <div class="service-details__content">
                         <div class="service-details__title-box">
@@ -97,7 +97,7 @@
                             <div class="col-xl-6">
                                 <div class="service-details__how-help-single">
                                     <div class="service-details__how-help-img">
-                                        <img src="assets/images/services/mutual-funds.jpg" alt="">
+                                        <img src={{ asset("assets/images/services/mutual-funds.jpg")}} alt="funds">
                                     </div>
                                     <div class="service-details__how-help-content">
                                         <p class="service-details__how-help-text-1">Our financial planning revolves around the needs of our clients.</p>
@@ -110,7 +110,7 @@
                             <div class="col-xl-6">
                                 <div class="service-details__how-help-single">
                                     <div class="service-details__how-help-img">
-                                        <img src="assets/images/services/stock.jpg" alt="">
+                                        <img src={{ asset("assets/images/services/stock.jpg")}} alt="stock">
                                     </div>
                                     <div class="service-details__how-help-content">
                                         <p class="service-details__how-help-text-1">We are continually seeking new business partnerships.</p>
@@ -211,7 +211,7 @@
                         <div class="cta-one-shape-1 float-bob-x"></div>
                         <div class="cta-one-shape-2 float-bob-x-2"></div>
                         <h3 class="cta-one__title">We’re delivering the best <br> customer experience</h3>
-                        <a href="about.html" class="thm-btn cta-one__btn">Discover More</a>
+                        <a href="/contact" class="thm-btn cta-one__btn">Discover More</a>
                     </div>
                 </div>
             </div>
@@ -223,13 +223,13 @@
 <!--Site Footer Start-->
 <footer class="site-footer">
     <div class="site-footer__top">
-        <div class="site-footer-shape-1" style="background-image: url(assets/images/shapes/site-footer-shape-1.png);"></div>
+        <div class="site-footer-shape-1" style="background-image: url({{ asset("assets/images/shapes/site-footer-shape-1.png")}});"></div>
         <div class="container">
             <div class="row">
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                     <div class="footer-widget__column footer-widget__about">
                         <div class="footer-widget__logo">
-                            <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
+                            <a href="/"><img src={{ asset("assets/images/resources/logo-1.png")}} alt="logo"></a>
                         </div>
                         <div class="footer-widget__about-text-box">
                             <p class="footer-widget__about-text">Great Experience for Building Customers & Businesses</p>
@@ -246,18 +246,18 @@
                     <div class="footer-widget__column footer-widget__explore clearfix">
                         <h3 class="footer-widget__title">Explore</h3>
                         <ul class="footer-widget__explore-list list-unstyled clearfix">
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="team.html">Meet our team</a></li>
-                            <li><a href="cases.html">Case stories</a></li>
-                            <li><a href="blog.html">Latest news</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="/about-us">About Us</a></li>
+                            <li><a href="/about-us#team">Meet our team</a></li>
+                            <li><a href="/financial-advice">Services</a></li>
+                            <li><a href="/blog-posts">Blog posts</a></li>
+                            <li><a href="/contact">Contact</a></li>
                         </ul>
                         <ul
                             class="footer-widget__explore-list footer-widget__explore-list-two list-unstyled clearfix">
-                            <li><a href="about.html">Support</a></li>
-                            <li><a href="about.html">Terms of use</a></li>
-                            <li><a href="about.html">Privacy policy</a></li>
-                            <li><a href="about.html">Help</a></li>
+                            <li><a href="#">Support</a></li>
+                            <li><a href="#">Terms of use</a></li>
+                            <li><a href="#">Privacy policy</a></li>
+                            <li><a href="/contact">Help</a></li>
                         </ul>
                     </div>
                 </div>

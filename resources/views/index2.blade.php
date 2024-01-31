@@ -26,7 +26,7 @@
                 </div>
                 <!-- /.image-layer -->
                 <div class="main-slider-three-img-1">
-                    <img src="assets/images/resources/main-slider-3-img-1.png" alt="">
+                    <img src="assets/images/backgrounds/index-1-bckg.jpg" alt="" style="width: 100%;">
                 </div>
                 <div class="main-slider-three-img-2">
                     <img src="assets/images/resources/main-slider-3-img-4.png" alt="">
@@ -49,7 +49,7 @@
                     <div class="row">
                         <div class="col-xl-8">
                             <div class="main-slider__content">
-                                <h2>finance <span>&</span> <br> consulting <br> business</h2>
+                                <h2>Welcome <br> to Oslim <br> Consultants</h2>
                                 <a href="/about-us" class="thm-btn">Discover More</a>
                             </div>
                         </div>
@@ -62,7 +62,7 @@
                 </div>
                 <!-- /.image-layer -->
                 <div class="main-slider-three-img-1">
-                    <img src="assets/images/resources/main-slider-3-img-2.png" alt="">
+                    <img src="assets/images/backgrounds/blog-bckg.jpg" alt="" style="width: 100%;">
                 </div>
                 <div class="main-slider-three-img-2">
                     <img src="assets/images/resources/main-slider-3-img-5.png" alt="">
@@ -85,8 +85,8 @@
                     <div class="row">
                         <div class="col-xl-8">
                             <div class="main-slider__content">
-                                <h2>finance <span>&</span> <br> consulting <br> business</h2>
-                                <a href="/about-us" class="thm-btn">Discover More</a>
+                                <h2>Achieve <br> Financial <br> Goal</h2>
+                                <a href="/financial-advice" class="thm-btn">Discover More</a>
                             </div>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                 </div>
                 <!-- /.image-layer -->
                 <div class="main-slider-three-img-1">
-                    <img src="assets/images/resources/main-slider-3-img-3.png" alt="">
+                    <img src="assets/images/backgrounds/index-3-bckg.jpg" alt="" style="width: 100%;">
                 </div>
                 <div class="main-slider-three-img-2">
                     <img src="assets/images/resources/main-slider-3-img-6.png" alt="">
@@ -121,8 +121,8 @@
                     <div class="row">
                         <div class="col-xl-8">
                             <div class="main-slider__content">
-                                <h2>finance <span>&</span> <br> consulting <br> business</h2>
-                                <a href="/about-us" class="thm-btn">Discover More</a>
+                                <h2>Worldwide <br> Network <br> Support</h2>
+                                <a href="/contact" class="thm-btn">Discover More</a>
                             </div>
                         </div>
                     </div>
@@ -175,9 +175,7 @@
                 </div>
                 <div class="col-xl-6 col-lg-6">
                     <div class="services-two__top-right">
-                        <p class="services-two__top-text">There are many variations of passages of Lorem Ipsum
-                            available, but the majority have suffered alteration in some form, by injected
-                            humour, or randomised.</p>
+                        <p class="services-two__top-text">At Oslim Investment, we recognize the significance of planning for success. That's why we carefully strategize to secure favorable outcomes for both our clients and ourselves.</p>
                     </div>
                 </div>
             </div>
@@ -190,13 +188,17 @@
                         <div class="services-two__icon">
                             <span class="icon-creative"></span>
                         </div>
-                        <h3 class="services-two__title"><a href="consumer-product.html">Consumer <br>
-                                Product</a></h3>
-                        <p class="services-two__text">Lorem ipsum is are <br> many variations of <br> pass of
-                            majority.</p>
+                        <h3 class="services-two__title"><a href="/financial-advice">Financial <br> Advice</a></h3>
+                        <p class="services-two__text">
+                                Strategic Advice <br>
+                                Mergers &amp; Acquisitions <br>
+                                Capital Raising <br>
+                                Strategic Consulting <br>
+                                financial solutions
+                        </p>
                         <div class="services-two__bottom-box">
-                            <a href="consumer-product.html" class="services-two__read-more">Read More</a>
-                            <a href="consumer-product.html" class="services-two__arrow"><span
+                            <a href="/financial-advice" class="services-two__read-more">Read More</a>
+                            <a href="/financial-advice" class="services-two__arrow"><span
                                     class="icon-right-arrow"></span></a>
                         </div>
                     </div>
@@ -207,13 +209,16 @@
                         <div class="services-two__icon">
                             <span class="icon-analysis"></span>
                         </div>
-                        <h3 class="services-two__title"><a href="audit-marketing.html">Audit <br> Marketing</a>
+                        <h3 class="services-two__title"><a href="/marketing-rules">Marketing <br> Rules</a>
                         </h3>
-                        <p class="services-two__text">Lorem ipsum is are <br> many variations of <br> pass of
-                            majority.</p>
+                        <p class="services-two__text">
+                            Acknowledge market volatility <br>
+                            Researched stocks <br>
+                            Collaboration with trusted partners
+                        </p>
                         <div class="services-two__bottom-box">
-                            <a href="audit-marketing.html" class="services-two__read-more">Read More</a>
-                            <a href="audit-marketing.html" class="services-two__arrow"><span
+                            <a href="/marketing-rules" class="services-two__read-more">Read More</a>
+                            <a href="/marketing-rules" class="services-two__arrow"><span
                                     class="icon-right-arrow"></span></a>
                         </div>
                     </div>
@@ -224,13 +229,16 @@
                         <div class="services-two__icon">
                             <span class="icon-business"></span>
                         </div>
-                        <h3 class="services-two__title"><a href="banking-advising.html">Banking <br>
-                                Advicing</a></h3>
-                        <p class="services-two__text">Lorem ipsum is are <br> many variations of <br> pass of
-                            majority.</p>
+                        <h3 class="services-two__title"><a href="/financial-advice">Hedge <br> Funds</a></h3>
+                        <p class="services-two__text">
+                            Investment Approaches <br>
+                            Absolute Return Focus <br>
+                            Risk Management <br>
+                            Diversification with Alternatives
+                            </p>
                         <div class="services-two__bottom-box">
-                            <a href="banking-advising.html" class="services-two__read-more">Read More</a>
-                            <a href="banking-advising.html" class="services-two__arrow"><span
+                            <a href="/financial-advice" class="services-two__read-more">Read More</a>
+                            <a href="/financial-advice" class="services-two__arrow"><span
                                     class="icon-right-arrow"></span></a>
                         </div>
                     </div>
@@ -241,13 +249,17 @@
                         <div class="services-two__icon">
                             <span class="icon-global"></span>
                         </div>
-                        <h3 class="services-two__title"><a href="marketing-rules.html">Marketing <br> Rules</a>
+                        <h3 class="services-two__title"><a href="/marketing-rules">Retirement <br> Planning</a>
                         </h3>
-                        <p class="services-two__text">Lorem ipsum is are <br> many variations of <br> pass of
-                            majority.</p>
+                        <p class="services-two__text">
+                            Financial Goal Setting <br>
+                            Strategic Investments <br>
+                            Diverse Income Streams <br>
+                            Risk Management and Contingencies
+                        </p>
                         <div class="services-two__bottom-box">
-                            <a href="marketing-rules.html" class="services-two__read-more">Read More</a>
-                            <a href="marketing-rules.html" class="services-two__arrow"><span
+                            <a href="/marketing-rules" class="services-two__read-more">Read More</a>
+                            <a href="/marketing-rules" class="services-two__arrow"><span
                                     class="icon-right-arrow"></span></a>
                         </div>
                     </div>
@@ -265,7 +277,7 @@
             <div class="col-xl-6">
                 <div class="welcome-three__left">
                     <div class="section-title text-left">
-                        <span class="section-title__tagline">grow your business</span>
+                        <span class="section-title__tagline">Get to know us</span>
                         <h2 class="section-title__title">We’re Changing the Way of Growth</h2>
                     </div>
                     <ul class="list-unstyled welcome-three__points">
@@ -274,7 +286,7 @@
                                 <i class="fa fa-arrow-right"></i>
                             </div>
                             <div class="text">
-                                <p>Our Mission</p>
+                                <a href="/about-us"><p>About Us</p></a>
                             </div>
                         </li>
                         <li>
@@ -282,11 +294,11 @@
                                 <i class="fa fa-arrow-right"></i>
                             </div>
                             <div class="text">
-                                <p>Our Story</p>
+                                <a href="/faq"><p>FAQs</p></a>
                             </div>
                         </li>
                     </ul>
-                    <ul class="list-unstyled welcome-three__points-content">
+                    {{-- <ul class="list-unstyled welcome-three__points-content">
                         <li>
                             <p class="welcome-three__points-text">Lorem ipsum dolor sit amet not <br> is
                                 consectetur notted.</p>
@@ -295,10 +307,8 @@
                             <p class="welcome-three__points-text">Lorem ipsum dolor sit amet not <br> is
                                 consectetur notted.</p>
                         </li>
-                    </ul>
-                    <p class="welcome-three__text">Tincidunt elit magnis nulla facilisis sagittis maecenas.
-                        Sapien nunced amet dolores sit ipsum velit purus aliq massa fringilla leo. There are
-                        many variations of passages.</p>
+                    </ul> --}}
+                    <p class="welcome-three__text">We tailor our financial planning to suit our clients' individual needs, taking into account their current financial circumstances and the goals they aspire to achieve.</p>
                     <div class="welcome-three__progress">
                         <div class="welcome-three__progress-single">
                             <h4 class="welcome-three__progress-title">Consulting</h4>
@@ -310,11 +320,12 @@
                         </div>
                     </div>
                     <div class="welcome-three__bottom">
-                        <a href="about.html" class="thm-btn welcome-three__btn">Discover More</a>
+                        <a href="/about-us" class="thm-btn welcome-three__btn">Discover More</a>
                         <div class="welcome-three__video">
-                            <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
+                            <a href="https://www.youtube.com/watch?v=CU4l_rs50Kk" class="video-popup">
                                 <div class="video-one__video-icon"
-                                    style="background-image: url(assets/images/resources/welcome-three-video-bg.jpg)">
+                                    style="background-color: black">
+                                    {{-- style="background-image: url(assets/images/resources/welcome-three-video-bg.jpg)" --}}
                                     <span class="fa fa-play"></span>
                                 </div>
                             </a>
@@ -328,10 +339,10 @@
                     data-wow-duration="2500ms">
                     <div class="welcome-three__img-box">
                         <div class="welcome-three-img-1">
-                            <img src="assets/images/resources/welcome-three-img-1.jpg" alt="">
+                            <img src="assets/images/resources/work-tgt-2.jpg" alt="">
                         </div>
                         <div class="welcome-three__img-2">
-                            <img src="assets/images/resources/welcome-three-img-2.jpg" alt="">
+                            <img src="assets/images/resources/work-tgt-1.jpg" alt="">
                         </div>
                         <div class="welcome-three__experience">
                             <p>30 Years of experience</p>
@@ -344,72 +355,152 @@
 </section>
 <!--Welcome Three End-->
 
-<!--Case One Start-->
+{{-- <!--Case One Start-->
 <section class="case-one case-three">
     <div class="container">
         <div class="section-title text-center">
-            <span class="section-title__tagline">Our recent work</span>
-            <h2 class="section-title__title">New Case Studies</h2>
+            <span class="section-title__tagline">What's Happening</span>
+            <h2 class="section-title__title">Navigating Investment Opportunities</h2>
+        </div>
+        <div class="row">
+                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                    <!--Case One Single-->
+                    <div class="case-one__single">
+                        <div class="case-one__img">
+                            <img src="assets/images/services/service-2.jpg" alt="">
+                        </div>
+                        <div class="case-one__content">
+                            <p class="case-one__tagline">Finance</p>
+                            <h3 class="case-one__title"><a href="case-details.html">Oslim Investment: <br>
+                            Navigating 2007's Financial Downturn</a>
+                            </h3>
+                        </div>
+                        <div class="case-one__arrow">
+                            <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                    <!--Case One Single-->
+                    <div class="case-one__single">
+                        <div class="case-one__img">
+                            <img src="assets/images/services/rasing-capital.jpg" alt="">
+                        </div>
+                        <div class="case-one__content">
+                            <p class="case-one__tagline">Marketing</p>
+                            <h3 class="case-one__title"><a href="case-details.html">Diversified Investments, Maximum Returns</a>
+                            </h3>
+                        </div>
+                        <div class="case-one__arrow">
+                            <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                    <!--Case One Single-->
+                    <div class="case-one__single">
+                        <div class="case-one__img">
+                            <img src="assets/images/services/stock.jpg" alt="">
+                        </div>
+                        <div class="case-one__content">
+                            <p class="case-one__tagline">Marketing</p>
+                            <h3 class="case-one__title"><a href="case-details.html">Empowering Clients Worldwide in Stock and Share Trading</a>
+                            </h3>
+                        </div>
+                        <div class="case-one__arrow">
+                            <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+</section>
+<!--Case One End--> --}}
+
+<!--News One Start-->
+<section class="index2-blogposts">
+    {{-- <div class="index2-blogposts-shape-1 shapemover2"></div> --}}
+    <div class="news-one-shape-2 float-bob-x-2"></div>
+    <div class="container">
+        <div class="section-title text-center">
+            <span class="section-title__tagline">What’s Happening</span>
+            <h2 class="section-title__title">Blog Posts</h2>
         </div>
         <div class="row">
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
-                <!--Case One Single-->
-                <div class="case-one__single">
-                    <div class="case-one__img">
-                        <img src="assets/images/case/case-3-1.jpg" alt="">
+                <!--News One Single-->
+                <div class="news-one__single">
+                    <div class="news-one__img">
+                        <img src="assets/images/services/service-1.jpg" alt="">
+                        <a href="blog-details.html">
+                            <span class="news-one__plus"></span>
+                        </a>
                     </div>
-                    <div class="case-one__content">
-                        <p class="case-one__tagline">leadership</p>
-                        <h3 class="case-one__title"><a href="case-details.html">Businesses <br> Growth</a>
-                        </h3>
-                    </div>
-                    <div class="case-one__arrow">
-                        <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                    <div class="news-one__content">
+                        <p class="news-one__sub-title">finance</p>
+                        <h3 class="news-one__title"><a href="blog-details.html">Oslim Investment:
+                            Navigating 2007's Financial Downturn</a></h3>
+                        <ul class="list-unstyled news-one__meta">
+                            <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
+                            <li><span>/</span></li>
+                            <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                <!--Case One Single-->
-                <div class="case-one__single">
-                    <div class="case-one__img">
-                        <img src="assets/images/case/case-3-2.jpg" alt="">
+                <!--News One Single-->
+                <div class="news-one__single">
+                    <div class="news-one__img">
+                        <img src="assets/images/backgrounds/marketing-bckg.jpg" alt="">
+                        <a href="blog-details.html">
+                            <span class="news-one__plus"></span>
+                        </a>
                     </div>
-                    <div class="case-one__content">
-                        <p class="case-one__tagline">Management</p>
-                        <h3 class="case-one__title"><a href="case-details.html">Marketing <br> Advice</a>
-                        </h3>
-                    </div>
-                    <div class="case-one__arrow">
-                        <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                    <div class="news-one__content">
+                        <p class="news-one__sub-title">marketing</p>
+                        <h3 class="news-one__title"><a href="blog-details.html">Diversified Investments, Maximum Returns</a></h3>
+                        <ul class="list-unstyled news-one__meta">
+                            <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
+                            <li><span>/</span></li>
+                            <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
-                <!--Case One Single-->
-                <div class="case-one__single">
-                    <div class="case-one__img">
-                        <img src="assets/images/case/case-3-3.jpg" alt="">
+                <!--News One Single-->
+                <div class="news-one__single">
+                    <div class="news-one__img">
+                        <img src="assets/images/services/service-2.jpg" alt="">
+                        <a href="blog-details.html">
+                            <span class="news-one__plus"></span>
+                        </a>
                     </div>
-                    <div class="case-one__content">
-                        <p class="case-one__tagline">strategy</p>
-                        <h3 class="case-one__title"><a href="case-details.html">Finance <br> Consulting</a>
-                        </h3>
-                    </div>
-                    <div class="case-one__arrow">
-                        <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                    <div class="news-one__content">
+                        <p class="news-one__sub-title">marketing</p>
+                        <h3 class="news-one__title"><a href="blog-details.html">Empowering Clients Worldwide in Stock and Share Trading</a></h3>
+                        <ul class="list-unstyled news-one__meta">
+                            <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
+                            <li><span>/</span></li>
+                            <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!--Case One End-->
+<!--News One End-->
 
 <!--Our Mission Two Start-->
 <section class="our-mission-two our-mission-three">
     <div class="our-mission-two-bg-box">
         <div class="our-mission-two-bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%"
-            style="background-image: url(assets/images/backgrounds/our-mission-bg.jpg);"></div>
+            style="background-image: url(assets/images/backgrounds/about-us-mission.jpg);"></div>
     </div>
     <div class="our-mission-shape-1 shapemover2"></div>
     <div class="our-mission-shape-2 shapemover2"></div>
@@ -420,13 +511,13 @@
                 <div class="our-mission-two__left">
                     <h2 class="our-mission-two__title">Mission is to Protect <br> your Businesses & Much More
                     </h2>
-                    <a href="about.html" class="thm-btn our-mission-two__btn">Discover More</a>
+                    <a href="/about-us" class="thm-btn our-mission-two__btn">Discover More</a>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4">
                 <div class="our-mission-two__right">
                     <div class="our-mission-two__video-link">
-                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
+                        <a href="https://www.youtube.com/watch?v=CU4l_rs50Kk" class="video-popup">
                             <div class="our-mission-two__video-icon">
                                 <span class="fa fa-play"></span>
                                 <i class="ripple"></i>
@@ -461,8 +552,7 @@
                             </div>
                         </div>
                         <h3 class="how-we-works__title">Consult with Team</h3>
-                        <p class="how-we-works__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                            elit do eiusmod.</p>
+                        <p class="how-we-works__text">Collaborate with our expert team to tailor personalized strategies for your financial goals. Unlock insights and make informed decisions together.</p>
                     </li>
                     <li class="how-we-works__single wow fadeInUp" data-wow-delay="200ms">
                         <div class="how-we-works__icon-box">
@@ -472,8 +562,7 @@
                             </div>
                         </div>
                         <h3 class="how-we-works__title">Make a Plan</h3>
-                        <p class="how-we-works__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                            elit do eiusmod.</p>
+                        <p class="how-we-works__text">Craft a comprehensive plan that aligns with your aspirations. We guide you through the process, ensuring every detail contributes to your pathway to success.</p>
                     </li>
                     <li class="how-we-works__single wow fadeInUp" data-wow-delay="300ms">
                         <div class="how-we-works__icon-box">
@@ -483,8 +572,7 @@
                             </div>
                         </div>
                         <h3 class="how-we-works__title">Enjoy the Success</h3>
-                        <p class="how-we-works__text">Lorem ipsum dolor sit amet, consectetur notted adipisicing
-                            elit do eiusmod.</p>
+                        <p class="how-we-works__text">Experience the fulfillment of your financial milestones. With a well-executed plan, relish the satisfaction of achieving your goals and enjoying the fruits of your financial success.</p>
                     </li>
                 </ul>
             </div>
@@ -502,7 +590,7 @@
                 <div class="testimonial-three__left">
                     <div class="section-title text-left">
                         <span class="section-title__tagline">Our testimonials</span>
-                        <h2 class="section-title__title">What They’re Saying About Agency</h2>
+                        <h2 class="section-title__title">What Do We Provide in Oslim</h2>
                     </div>
                 </div>
             </div>
@@ -511,28 +599,10 @@
                     <div class="testimonial-three__carousel owl-theme owl-carousel">
                         <!--Testimonial Three Single-->
                         <div class="testimonial-three__single">
-                            <p class="testimonial-three__text">I was impresed by the company services, not lorem
-                                ipsum is simply free text of used. Neque porro est qui dolorem ipsum quia.</p>
+                            <p class="testimonial-three__text">Working with this consultancy has been a game-changer for my portfolio. Their financial insights and stock strategies are nothing short of genius. They've turned my investments into success stories! Join them now!</p>
                             <div class="testimonial-three__client-info">
                                 <div class="testimonial-three__client-img">
-                                    <img src="assets/images/testimonial/testimonial-3-client-img-1.jpg" alt="">
-                                </div>
-                                <div class="testimonial-three__client-details">
-                                    <h4 class="testimonial-three__client-name">Christine Rose</h4>
-                                    <p class="testimonial-three__client-title">Customer</p>
-                                </div>
-                            </div>
-                            <div class="testimonial-three__quote-icon">
-                                <img src="assets/images/icon/testimonial-3-quote-icon.png" alt="">
-                            </div>
-                        </div>
-                        <!--Testimonial Three Single-->
-                        <div class="testimonial-three__single">
-                            <p class="testimonial-three__text">I was impresed by the company services, not lorem
-                                ipsum is simply free text of used. Neque porro est qui dolorem ipsum quia.</p>
-                            <div class="testimonial-three__client-info">
-                                <div class="testimonial-three__client-img">
-                                    <img src="assets/images/testimonial/testimonial-3-client-img-2.jpg" alt="">
+                                    <img src={{ asset("assets/images/testimonial/index-testimonial-1.jpg")}} alt="">
                                 </div>
                                 <div class="testimonial-three__client-details">
                                     <h4 class="testimonial-three__client-name">Mike Hardson</h4>
@@ -545,11 +615,10 @@
                         </div>
                         <!--Testimonial Three Single-->
                         <div class="testimonial-three__single">
-                            <p class="testimonial-three__text">I was impresed by the company services, not lorem
-                                ipsum is simply free text of used. Neque porro est qui dolorem ipsum quia.</p>
+                            <p class="testimonial-three__text">The consultancy's expertise in financial and stock matters is truly commendable. Their strategic approach to marketing and investment planning has created substantial returns. Grateful for the partnership!</p>
                             <div class="testimonial-three__client-info">
                                 <div class="testimonial-three__client-img">
-                                    <img src="assets/images/testimonial/testimonial-3-client-img-1.jpg" alt="">
+                                    <img src={{ asset("assets/images/testimonial/index-testimonial-2.jpg")}} alt="">
                                 </div>
                                 <div class="testimonial-three__client-details">
                                     <h4 class="testimonial-three__client-name">Christine Rose</h4>
@@ -562,14 +631,30 @@
                         </div>
                         <!--Testimonial Three Single-->
                         <div class="testimonial-three__single">
-                            <p class="testimonial-three__text">I was impresed by the company services, not lorem
-                                ipsum is simply free text of used. Neque porro est qui dolorem ipsum quia.</p>
+                            <p class="testimonial-three__text">
+                                In the dynamic world of stocks and markets, this consultancy excels with expertise. Their market mastery and meticulous planning navigate challenges and propel financial growth. Trust their proven strategies for success!</p>
                             <div class="testimonial-three__client-info">
                                 <div class="testimonial-three__client-img">
-                                    <img src="assets/images/testimonial/testimonial-3-client-img-2.jpg" alt="">
+                                    <img src={{ asset("assets/images/testimonial/index-testimonial-3.jpg")}} alt="">
                                 </div>
                                 <div class="testimonial-three__client-details">
-                                    <h4 class="testimonial-three__client-name">Mike Hardson</h4>
+                                    <h4 class="testimonial-three__client-name">Marcus Thompson</h4>
+                                    <p class="testimonial-three__client-title">Customer</p>
+                                </div>
+                            </div>
+                            <div class="testimonial-three__quote-icon">
+                                <img src="assets/images/icon/testimonial-3-quote-icon.png" alt="">
+                            </div>
+                        </div>
+                        <!--Testimonial Three Single-->
+                        <div class="testimonial-three__single">
+                            <p class="testimonial-three__text">Partnering with this consultancy was one of the best decisions I made for my business. Their results-driven approach in marketing and financial consultation has elevated our success to new heights. Highly recommended!</p>
+                            <div class="testimonial-three__client-info">
+                                <div class="testimonial-three__client-img">
+                                    <img src={{ asset("assets/images/testimonial/index-testimonial-4.jpg")}} alt="">
+                                </div>
+                                <div class="testimonial-three__client-details">
+                                    <h4 class="testimonial-three__client-name">Sarah Johnson</h4>
                                     <p class="testimonial-three__client-title">Customer</p>
                                 </div>
                             </div>
@@ -618,34 +703,34 @@
             }}'>
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-1.png" alt="">
+                        <img src="assets/images/track/track-1-new.jpg" alt="">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-2.png" alt="">
+                        <img src="assets/images/track/track-2.png" alt="">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-3.png" alt="">
+                        <img src="assets/images/track/track-3.png" alt="">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-4.png" alt="">
+                        <img src="assets/images/track/track-4.jpg" alt="">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-5.png" alt="">
+                        <img src="assets/images/track/track-5.jpg" alt="">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-1.png" alt="">
+                        <img src="assets/images/track/track-6.png" alt="">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-2.png" alt="">
+                        <img src="assets/images/track/track-7.jpg" alt="">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-3.png" alt="">
+                        <img src="assets/images/track/track-8.png" alt="">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-4.png" alt="">
+                        <img src="assets/images/track/track-9.png" alt="">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-5.png" alt="">
+                        <img src="assets/images/track/track-10.jpg" alt="">
                     </div><!-- /.swiper-slide -->
                 </div>
             </div>
@@ -667,8 +752,7 @@
                             <span class="section-title__tagline">contact with us</span>
                             <h2 class="section-title__title">We are Here to Help You & Your Business</h2>
                         </div>
-                        <p class="contact-one__text">Pellentesque ultricies quam dui, id portt tor leo <br>
-                            iaculis nec. Phasellus ac neque.</p>
+                        <p class="contact-one__text">We are a global management consulting firm dedicated to assisting businesses with financial solutions.</p>
                         <div class="contact-one__timings">
                             <h5 class="contact-one__timings-title">Timings</h5>
                             <p class="contact-one__timings__text">8:00 am - 6:00 pm</p>
@@ -780,13 +864,13 @@
         <div class="google-map-two__inner">
             <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
-                class="google-map__two-map" allowfullscreen></iframe>
+                class="google-map__two-map" allowfullscreen style="padding-bottom: 80px"></iframe>
         </div>
     </div>
 </section>
 <!--Google Map Two End-->
 
-<!--News Two Start-->
+{{-- <!--News Two Start-->
 <section class="news-two">
     <div class="container">
         <div class="section-title text-center">
@@ -863,7 +947,7 @@
         </div>
     </div>
 </section>
-<!--News Two End-->
+<!--News Two End--> --}}
 
 <!--Site Footer Start-->
 <footer class="site-footer site-footer-three">
@@ -893,26 +977,28 @@
                     <div class="footer-widget__column footer-widget__explore clearfix">
                         <h3 class="footer-widget__title">Explore</h3>
                         <ul class="footer-widget__explore-list list-unstyled clearfix">
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="team.html">Meet our team</a></li>
-                            <li><a href="cases.html">Case stories</a></li>
-                            <li><a href="blog.html">Latest news</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="/about-us">About Us</a></li>
+                            <li><a href="/about-us#team">Meet our team</a></li>
+                            <li><a href="/financial-advice">Services</a></li>
+                            <li><a href="/blog-posts">Blog posts</a></li>
+                            <li><a href="/contact">Contact</a></li>
                         </ul>
                         <ul
                             class="footer-widget__explore-list footer-widget__explore-list-two list-unstyled clearfix">
-                            <li><a href="about.html">Support</a></li>
-                            <li><a href="about.html">Terms of use</a></li>
-                            <li><a href="about.html">Privacy policy</a></li>
-                            <li><a href="about.html">Help</a></li>
+                            <li><a href="#">Support</a></li>
+                            <li><a href="#">Terms of use</a></li>
+                            <li><a href="#">Privacy policy</a></li>
+                            <li><a href="/contact">Help</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                     <div class="footer-widget__column footer-widget__newsletter-box clearfix">
                         <h3 class="footer-widget__title">Newsletter</h3>
-                        <p class="footer-widget__newsletter-text">Subsrcibe for our upcoming latest articles and
-                            resources</p>
+                        <p class="footer-widget__newsletter-text">
+                            Subsrcibe for our upcoming latest articles and
+                            resources
+                        </p>
                         <form class="footer-widget__newsletter-form">
                             <div class="footer-widget__newsletter-input-box">
                                 <input type="email" placeholder="Email address" name="email">

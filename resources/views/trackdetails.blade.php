@@ -4,7 +4,7 @@
 
 <!--Page Header Start-->
 <section class="page-header">
-    <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/track-details-bckg.jpg)">
+    <div class="page-header-bg" style="background-image: url({{asset("assets/images/backgrounds/track-details-bckg.jpg")}})">
     </div>
     <div class="page-header-shape-1 float-bob-x-6"></div>
     <div class="page-header-shape-2 float-bob-x-7"></div>
@@ -27,7 +27,7 @@
         <div class="row">
             <div class="col-xl-12">
                 <div class="case-details__img">
-                    <img src="assets/images/case/ford.jpg" alt="">
+                    <img src={{ asset("assets/images/case/ford.jpg")}} alt="ford">
                     <div class="case-details__details-box">
                         <ul class="list-unstyled case-details__details">
                             <li>
@@ -161,12 +161,11 @@
         </div>
         <div class="test-part">
         <div class="row">
-            
                 <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
                     <!--Case One Single-->
                     <div class="track__single">
                         <div class="track__img">
-                            <img src="assets/images/track/track-1-new.jpg" alt="">
+                            <img src={{ asset("assets/images/track/track-1-new.jpg")}} alt="ON Semiconductor">
                         </div>
                         <div class="track__content">
                             <h3 class="case-one__title"><a href="#">ON Semiconductor</a></h3>
@@ -181,7 +180,7 @@
                     <!--Case One Single-->
                     <div class="track__single">
                         <div class="track__img">
-                            <img src="assets/images/track/track-3.png" alt="">
+                            <img src={{ asset("assets/images/track/track-3.png")}} alt="Gamestop">
                         </div>
                         <div class="track__content">
                             <h3 class="case-one__title"><a href="#">Gamestop</a></h3>
@@ -196,7 +195,7 @@
                     <!--Case One Single-->
                     <div class="track__single">
                         <div class="track__img">
-                            <img src="assets/images/track/track-4.jpg" alt="">
+                            <img src={{ asset("assets/images/track/track-4.jpg")}} alt="Moderna">
                         </div>
                         <div class="track__content">
                             <h3 class="case-one__title"><a href="#">Moderna</a></h3>
@@ -262,13 +261,13 @@
 <!--Site Footer Start-->
 <footer class="site-footer site-footer-three">
     <div class="site-footer__top">
-        <div class="site-footer-shape-1" style="background-image: url(assets/images/shapes/site-footer-shape-1.png);"></div>
+        <div class="site-footer-shape-1" style="background-image: url({{ asset("assets/images/shapes/site-footer-shape-1.png")}});"></div>
         <div class="container">
             <div class="row">
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                     <div class="footer-widget__column footer-widget__about">
                         <div class="footer-widget__logo">
-                            <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
+                            <a href="/"><img src={{ asset("assets/images/resources/logo-1.png")}} alt="logo"></a>
                         </div>
                         <div class="footer-widget__about-text-box">
                             <p class="footer-widget__about-text">Great Experience for Building Customers & Businesses</p>
@@ -285,18 +284,18 @@
                     <div class="footer-widget__column footer-widget__explore clearfix">
                         <h3 class="footer-widget__title">Explore</h3>
                         <ul class="footer-widget__explore-list list-unstyled clearfix">
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="team.html">Meet our team</a></li>
-                            <li><a href="cases.html">Case stories</a></li>
-                            <li><a href="blog.html">Latest news</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="/about-us">About Us</a></li>
+                            <li><a href="/about-us#team">Meet our team</a></li>
+                            <li><a href="/financial-advice">Services</a></li>
+                            <li><a href="/blog-posts">Blog posts</a></li>
+                            <li><a href="/contact">Contact</a></li>
                         </ul>
                         <ul
                             class="footer-widget__explore-list footer-widget__explore-list-two list-unstyled clearfix">
-                            <li><a href="about.html">Support</a></li>
-                            <li><a href="about.html">Terms of use</a></li>
-                            <li><a href="about.html">Privacy policy</a></li>
-                            <li><a href="about.html">Help</a></li>
+                            <li><a href="#">Support</a></li>
+                            <li><a href="#">Terms of use</a></li>
+                            <li><a href="#">Privacy policy</a></li>
+                            <li><a href="/contact">Help</a></li>
                         </ul>
                     </div>
                 </div>

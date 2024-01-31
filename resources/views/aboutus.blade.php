@@ -29,7 +29,7 @@
                 <div class="work-together-two__left wow slideInLeft" data-wow-delay="100ms"
                 data-wow-duration="2500ms">
                     <div class="work-together-two__img">
-                        <img src="assets/images/resources/about-us-building.jpg" alt="building">
+                        <img src={{ asset("assets/images/resources/about-us-building.jpg")}} alt="building">
                     </div>
                 </div>
             </div>
@@ -89,15 +89,15 @@
                      </div>
                      <div class="quality-work__tab-box tabs-box">
                          <ul class="tab-buttons clearfix list-unstyled">
-                             <li data-tab="#solutions" class="tab-btn active-btn"><span>new solutions</span></li>
-                             <li data-tab="#work" class="tab-btn"><span>smart work</span></li>
+                             <li data-tab="#" class="tab-btn active-btn"><span>new solutions</span></li>
+                             <li data-tab="#" class="tab-btn"><span>smart work</span></li>
                          </ul>
                          <div class="tabs-content">
                              <!--tab-->
                              <div class="tab active-tab" id="solutions">
                                  <div class="tab-content__inner">
                                      <div class="tab-content__img">
-                                         <img src="{{ asset('assets/images/resources/about-us-woman.jpg')}}" alt="">
+                                         <img src={{ asset('assets/images/resources/about-us-woman-2.jpg')}} alt="woman">
                                      </div>
                                      <div class="tab-content__contnet">
                                          <h4 class="tab-content__title">We give our clients access to commodities in these areas:</h4>
@@ -109,18 +109,18 @@
                                      </div>
                                  </div>
                              </div>
-                             <!--tab-->
+                             {{-- <!--tab-->
                              <div class="tab " id="work">
                                  <div class="tab-content__inner">
                                      <div class="tab-content__img">
-                                         <img src="assets/images/resources/tab-content-img-1.jpg" alt="">
+                                         <img src={{ asset("assets/images/resources/tab-content-img-1.jpg")}} alt="content">
                                      </div>
                                      <div class="tab-content__contnet">
                                          <h4 class="tab-content__title">Pellentesque pharetra ornare dui</h4>
                                          <p class="tab-content__text">There are many variations of pas of available but the majority have suffered alteration in some form, or words which don look.</p>
                                      </div>
                                  </div>
-                             </div>
+                             </div> --}}
                          </div>
                      </div>
                  </div>
@@ -135,7 +135,8 @@
                              <div class="text">
                                  <h4>GUIDED BY OUR PRINCIPLES</h4>
                                  <p>
-                                    The sustainability of a long-term relationship relies on open and honest communication that flows in both directions.</p>
+                                    The sustainability of a long-term relationship relies on open and honest communication that flows in both directions.
+                                </p>
                              </div>
                          </li>
                          <li>
@@ -158,7 +159,7 @@
  <!--Our Mission Two Start-->
 <section class="our-mission-two our-mission-three">
     <div class="our-mission-two-bg-box">
-        <div class="our-mission-two-bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/backgrounds/about-us-mission.jpg);"></div>
+        <div class="our-mission-two-bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url({{ asset("assets/images/backgrounds/about-us-mission.jpg")}});"></div>
     </div>
     <div class="our-mission-shape-1 shapemover2"></div>
     <div class="our-mission-shape-2 shapemover2"></div>
@@ -168,7 +169,7 @@
             <div class="col-xl-8 col-lg-8">
                 <div class="our-mission-two__left">
                     <h2 class="our-mission-two__title">Mission is to Protect <br> your Businesses &  Much More</h2>
-                    <a href="about.html" class="thm-btn our-mission-two__btn">Discover More</a>
+                    <a href="#" class="thm-btn our-mission-two__btn">Discover More</a>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4">
@@ -190,7 +191,7 @@
 <!--Our Mission Two End-->
 
 <!--Team One Start-->
-<section class="team-one">
+<section class="team-one" id="team">
     <div class="team-one__container">
         <div class="section-title text-center">
             <span class="section-title__tagline">professional people</span>
@@ -201,7 +202,7 @@
                 <!--Team One Single-->
                 <div class="team-one__single">
                     <div class="team-one__img">
-                        <img src="assets/images/team/team-1.jpg" alt="">
+                        <img src={{ asset("assets/images/team/team-1.jpg")}} alt="team-1">
                         <div class="team-one__content">
                             <h3 class="team-one__name">Sarah Albert</h3>
                             <p class="team-one__title">Consultant</p>
@@ -219,7 +220,7 @@
                 <!--Team One Single-->
                 <div class="team-one__single">
                     <div class="team-one__img">
-                        <img src="assets/images/team/team-2.jpg" alt="">
+                        <img src={{ asset("assets/images/team/team-2.jpg")}} alt="team-2">
                         <div class="team-one__content">
                             <h3 class="team-one__name">Mike Hardson</h3>
                             <p class="team-one__title">Advisor</p>
@@ -237,7 +238,7 @@
                 <!--Team One Single-->
                 <div class="team-one__single">
                     <div class="team-one__img">
-                        <img src="assets/images/team/team-3.jpg" alt="">
+                        <img src={{ asset("assets/images/team/team-3.jpg")}} alt="team-3">
                         <div class="team-one__content">
                             <h3 class="team-one__name">Christine Eve</h3>
                             <p class="team-one__title">Manager</p>
@@ -255,7 +256,7 @@
                 <!--Team One Single-->
                 <div class="team-one__single">
                     <div class="team-one__img">
-                        <img src="assets/images/team/team-4.jpg" alt="">
+                        <img src={{ asset("assets/images/team/team-4.jpg")}} alt="team-4">
                         <div class="team-one__content">
                             <h3 class="team-one__name">Kevin Martin</h3>
                             <p class="team-one__title">Co Founder</p>
@@ -284,9 +285,9 @@
                     <div class="testimonial-one__single">
                         <div class="testimonial-one__client-info">
                             <div class="testimonial-one__client-img">
-                                <img src="assets/images/testimonial/testimonial-1.jpg" alt="">
+                                <img src={{ asset("assets/images/testimonial/testimonial-1.jpg")}} alt="ppl1">
                                 <div class="testimonial-one__quote">
-                                    <img src="assets/images/icon/quote-icon.png" alt="">
+                                    <img src={{ asset("assets/images/icon/quote-icon.png")}} alt="quote">
                                 </div>
                             </div>
                         </div>
@@ -300,9 +301,9 @@
                     <div class="testimonial-one__single">
                         <div class="testimonial-one__client-info">
                             <div class="testimonial-one__client-img">
-                                <img src="assets/images/testimonial/testimonial-2.jpg" alt="">
+                                <img src={{ asset("assets/images/testimonial/testimonial-2.jpg")}} alt="ppl2">
                                 <div class="testimonial-one__quote">
-                                    <img src="assets/images/icon/quote-icon.png" alt="">
+                                    <img src={{ asset("assets/images/icon/quote-icon.png")}} alt="quote">
                                 </div>
                             </div>
                         </div>
@@ -317,9 +318,9 @@
                     <div class="testimonial-one__single">
                         <div class="testimonial-one__client-info">
                             <div class="testimonial-one__client-img">
-                                <img src="assets/images/testimonial/testimonial-3.jpg" alt="">
+                                <img src={{ asset("assets/images/testimonial/testimonial-3.jpg")}} alt="ppl3">
                                 <div class="testimonial-one__quote">
-                                    <img src="assets/images/icon/quote-icon.png" alt="">
+                                    <img src={{ asset("assets/images/icon/quote-icon.png")}} alt="quote">
                                 </div>
                             </div>
                         </div>
@@ -424,13 +425,13 @@
 <!--Site Footer Start-->
 <footer class="site-footer">
     <div class="site-footer__top">
-        <div class="site-footer-shape-1" style="background-image: url(assets/images/shapes/site-footer-shape-1.png);"></div>
+        <div class="site-footer-shape-1" style="background-image: url({{ asset("assets/images/shapes/site-footer-shape-1.png")}});"></div>
         <div class="container">
             <div class="row">
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                     <div class="footer-widget__column footer-widget__about">
                         <div class="footer-widget__logo">
-                            <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
+                            <a href="index.html"><img src={{ asset("assets/images/resources/logo-1.png")}} alt=""></a>
                         </div>
                         <div class="footer-widget__about-text-box">
                             <p class="footer-widget__about-text">Great Experience for Building Customers & Businesses</p>
@@ -447,18 +448,18 @@
                     <div class="footer-widget__column footer-widget__explore clearfix">
                         <h3 class="footer-widget__title">Explore</h3>
                         <ul class="footer-widget__explore-list list-unstyled clearfix">
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="team.html">Meet our team</a></li>
-                            <li><a href="cases.html">Case stories</a></li>
-                            <li><a href="blog.html">Latest news</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="/about-us">About Us</a></li>
+                            <li><a href="/about-us#team">Meet our team</a></li>
+                            <li><a href="/financial-advice">Services</a></li>
+                            <li><a href="/blog-posts">Blog posts</a></li>
+                            <li><a href="/contact">Contact</a></li>
                         </ul>
                         <ul
                             class="footer-widget__explore-list footer-widget__explore-list-two list-unstyled clearfix">
-                            <li><a href="about.html">Support</a></li>
-                            <li><a href="about.html">Terms of use</a></li>
-                            <li><a href="about.html">Privacy policy</a></li>
-                            <li><a href="about.html">Help</a></li>
+                            <li><a href="#">Support</a></li>
+                            <li><a href="#">Terms of use</a></li>
+                            <li><a href="#">Privacy policy</a></li>
+                            <li><a href="/contact">Help</a></li>
                         </ul>
                     </div>
                 </div>

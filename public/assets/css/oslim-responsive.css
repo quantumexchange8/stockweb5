@@ -476,6 +476,10 @@
         padding: 51px 30px 70px;
     }
 
+    .news-one__img img {
+        height: 350px;
+    }
+
     .testimonial-three__quote-icon {
         right: 30px;
     }
@@ -486,6 +490,10 @@
 
     .case-three .case-one__arrow {
         right: 80px;
+    }
+
+    .track__content {
+        height: 200px;
     }
 
 
@@ -1081,6 +1089,10 @@
 
     .case-three .case-one__arrow {
         right: 80px;
+    }
+
+    .track__content {
+        height: 200px;
     }
 
 

@@ -8,7 +8,8 @@
                 <div class="main-menu-wrapper__main-menu">
                     <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                     <ul class="main-menu__list">
-                        <li class="dropdown {{ Request::is('/', 'index-2') ? 'current' : '' }}">
+                        <li><a class ="{{ Request::is('/') ? 'current' : '' }}" href="/">Home</a></li>
+                        {{-- <li class="dropdown {{ Request::is('/', 'index-2') ? 'current' : '' }}">
                             <a href="/">Home</a>
                             <ul>
                                 <li>
@@ -16,7 +17,7 @@
                                 </li>
                                 <li><a href="/index-2">Home Three</a></li>
                             </ul>
-                        </li>
+                        </li> --}}
                         <li class="dropdown {{ Request::is('financial-advice', 'marketing-rules') ? 'current' : '' }}">
                             <a href="/financial-advice">Services</a>
                             <ul>
@@ -39,7 +40,7 @@
                             </ul>
                         </li>
                         <li class="dropdown {{ Request::is('blog-posts', 'blogposts-rightsidebar') ? 'current' : '' }}">
-                            <a href="#">Blog</a>
+                            <a href="/blog-posts">Blog</a>
                             <ul>
                                 <li><a href="/blog-posts">Blog Posts</a></li>
                                 <li><a href="/blogposts-rightsidebar">Blog Right Sidebar</a></li>
@@ -59,9 +60,9 @@
                         <h5><a href="tel:12463330079">+1- ( 246 ) 333 - 0079</a></h5>
                     </div>
                 </div>
-                <div class="main-menu-wrapper__search-cat">
+                {{-- <div class="main-menu-wrapper__search-cat">
                     <a href="#" class="main-menu-wrapper__search search-toggler icon-magnifying-glass"></a>
-                </div>
+                </div> --}}
             </div>
         </div>
     </nav>

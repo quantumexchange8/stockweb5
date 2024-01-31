@@ -4,14 +4,14 @@
 
 <!--Page Header Start-->
 <section class="page-header">
-    <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/blog-bckg.jpg)">
+    <div class="page-header-bg" style="background-image: url({{ asset("assets/images/backgrounds/blog-bckg.jpg")}})">
     </div>
     <div class="page-header-shape-1 float-bob-x-6"></div>
     <div class="page-header-shape-2 float-bob-x-7"></div>
     <div class="container">
         <div class="page-header__inner">
             <ul class="thm-breadcrumb list-unstyled">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <li><span>/</span></li>
                 <li>Blog</li>
             </ul>
@@ -29,8 +29,8 @@
                 <!--News One Single-->
                 <div class="news-one__single">
                     <div class="news-one__img">
-                        <img src="assets/images/backgrounds/financial-bckg.jpg" alt="">
-                        <a href="blog-details.html">
+                        <img src={{ asset("assets/images/backgrounds/financial-bckg.jpg")}} alt="financial">
+                        <a href="/blogposts-rightsidebar">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
@@ -38,9 +38,9 @@
                         <p class="news-one__sub-title">finance</p>
                         <h3 class="news-one__title"><a href="/financial-advice#mergers">Experience in navigating corporations</a></h3>
                         <ul class="list-unstyled news-one__meta">
-                            <li><a href="blog-details.html"><i class="far fa-clock"></i> 22 Jan, 2024</a></li>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-clock"></i> 22 Jan, 2024</a></li>
                             <li><span>/</span></li>
-                            <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-comments"></i> 2 Comments</a>
                             </li>
                         </ul>
                     </div>
@@ -50,8 +50,8 @@
                 <!--News One Single-->
                 <div class="news-one__single">
                     <div class="news-one__img">
-                        <img src="assets/images/services/service-1.jpg" alt="">
-                        <a href="blog-details.html">
+                        <img src={{ asset("assets/images/services/service-1.jpg")}} alt="service">
+                        <a href="/blogposts-rightsidebar">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
@@ -59,9 +59,9 @@
                         <p class="news-one__sub-title">finance</p>
                         <h3 class="news-one__title"><a href="/financial-advice#raising">Oslim Investment: <br>Navigating 2007's Financial Downturn</a></h3>
                         <ul class="list-unstyled news-one__meta">
-                            <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
                             <li><span>/</span></li>
-                            <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-comments"></i> 2 Comments</a>
                             </li>
                         </ul>
                     </div>
@@ -71,7 +71,7 @@
                 <!--News One Single-->
                 <div class="news-one__single">
                     <div class="news-one__img">
-                        <img src="assets/images/backgrounds/marketing-bckg.jpg" alt="">
+                        <img src={{ asset("assets/images/backgrounds/marketing-bckg.jpg")}} alt="marketing">
                         <a href="blog-details.html">
                             <span class="news-one__plus"></span>
                         </a>
@@ -80,9 +80,9 @@
                         <p class="news-one__sub-title">marketing</p>
                         <h3 class="news-one__title"><a href="/marketing-rules#mutual">Diversified Investments, Maximum Returns</a></h3>
                         <ul class="list-unstyled news-one__meta">
-                            <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
                             <li><span>/</span></li>
-                            <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-comments"></i> 2 Comments</a>
                             </li>
                         </ul>
                     </div>
@@ -92,8 +92,8 @@
                 <!--News One Single-->
                 <div class="news-one__single">
                     <div class="news-one__img">
-                        <img src="assets/images/services/service-2.jpg" alt="">
-                        <a href="blog-details.html">
+                        <img src={{ asset("assets/images/services/service-2.jpg")}} alt="service">
+                        <a href="/blogposts-rightsidebar">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
@@ -101,9 +101,9 @@
                         <p class="news-one__sub-title">marketing</p>
                         <h3 class="news-one__title"><a href="/marketing-rules#stocks">Empowering Clients Worldwide in Stock and Share Trading</a></h3>
                         <ul class="list-unstyled news-one__meta">
-                            <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
                             <li><span>/</span></li>
-                            <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-comments"></i> 2 Comments</a>
                             </li>
                         </ul>
                     </div>
@@ -113,8 +113,8 @@
                 <!--News One Single-->
                 <div class="news-one__single">
                     <div class="news-one__img">
-                        <img src="assets/images/backgrounds/track-details-bckg.jpg" alt="">
-                        <a href="blog-details.html">
+                        <img src={{ asset("assets/images/backgrounds/track-details-bckg.jpg")}} alt="track-details">
+                        <a href="/blogposts-rightsidebar">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
@@ -122,9 +122,9 @@
                         <p class="news-one__sub-title">track</p>
                         <h3 class="news-one__title"><a href="/track-details#track">Oslim Consultants: Pioneering Robust Returns Since 2015</a></h3>
                         <ul class="list-unstyled news-one__meta">
-                            <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
                             <li><span>/</span></li>
-                            <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-comments"></i> 2 Comments</a>
                             </li>
                         </ul>
                     </div>
@@ -134,8 +134,8 @@
                 <!--News One Single-->
                 <div class="news-one__single">
                     <div class="news-one__img">
-                        <img src="assets/images/backgrounds/track-record-bckg.jpg" alt="">
-                        <a href="blog-details.html">
+                        <img src={{ asset("assets/images/backgrounds/track-record-bckg.jpg")}} alt="track-record">
+                        <a href="/blogposts-rightsidebar">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
@@ -143,9 +143,9 @@
                         <p class="news-one__sub-title">track</p>
                         <h3 class="news-one__title"><a href="/track"> Proven Success: Oslim Consultants' Track Record </a></h3>
                         <ul class="list-unstyled news-one__meta">
-                            <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
                             <li><span>/</span></li>
-                            <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-comments"></i> 2 Comments</a>
                             </li>
                         </ul>
                     </div>
@@ -170,13 +170,13 @@
 <footer class="site-footer site-footer-three">
     <div class="site-footer__top">
         <div class="site-footer-shape-1"
-            style="background-image: url(assets/images/shapes/site-footer-shape-1.png);"></div>
+            style="background-image: url({{ asset("assets/images/shapes/site-footer-shape-1.png")}});"></div>
         <div class="container">
             <div class="row">
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                     <div class="footer-widget__column footer-widget__about">
                         <div class="footer-widget__logo">
-                            <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
+                            <a href="/"><img src={{ asset("assets/images/resources/logo-1.png")}} alt="logo"></a>
                         </div>
                         <div class="footer-widget__about-text-box">
                             <p class="footer-widget__about-text">Great Experience for Building Customers &
@@ -194,18 +194,18 @@
                     <div class="footer-widget__column footer-widget__explore clearfix">
                         <h3 class="footer-widget__title">Explore</h3>
                         <ul class="footer-widget__explore-list list-unstyled clearfix">
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="team.html">Meet our team</a></li>
-                            <li><a href="cases.html">Case stories</a></li>
-                            <li><a href="blog.html">Latest news</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="/about-us">About Us</a></li>
+                            <li><a href="/about-us#team">Meet our team</a></li>
+                            <li><a href="/financial-advice">Services</a></li>
+                            <li><a href="/blog-posts">Blog posts</a></li>
+                            <li><a href="/contact">Contact</a></li>
                         </ul>
                         <ul
                             class="footer-widget__explore-list footer-widget__explore-list-two list-unstyled clearfix">
-                            <li><a href="about.html">Support</a></li>
-                            <li><a href="about.html">Terms of use</a></li>
-                            <li><a href="about.html">Privacy policy</a></li>
-                            <li><a href="about.html">Help</a></li>
+                            <li><a href="#">Support</a></li>
+                            <li><a href="#">Terms of use</a></li>
+                            <li><a href="#">Privacy policy</a></li>
+                            <li><a href="/contact">Help</a></li>
                         </ul>
                     </div>
                 </div>

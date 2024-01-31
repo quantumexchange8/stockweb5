@@ -4,14 +4,14 @@
 
 <!--Page Header Start-->
 <section class="page-header">
-    <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/track-record-bckg.jpg)">
+    <div class="page-header-bg" style="background-image: url({{ asset("assets/images/backgrounds/track-record-bckg.jpg")}})">
     </div>
     <div class="page-header-shape-1 float-bob-x-6"></div>
     <div class="page-header-shape-2 float-bob-x-7"></div>
     <div class="container">
         <div class="page-header__inner">
             <ul class="thm-breadcrumb list-unstyled">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <li><span>/</span></li>
                 <li>Track</li>
             </ul>
@@ -29,14 +29,14 @@
                 <!--Case One Single-->
                 <div class="case-one__single">
                     <div class="case-one__img">
-                        <img src="assets/images/track/track-1-new.jpg" alt="">
+                        <img src={{ asset("assets/images/track/track-1-new.jpg")}} alt="track-1">
                     </div>
                     <div class="case-one__content">
-                        <h3 class="case-one__title"><a href="case-details.html">ON Semiconductor <br> </a></h3>
+                        <h3 class="case-one__title"><a href="/track-details">ON Semiconductor <br> </a></h3>
                         <p class="case-one__tagline">NASDAQ: ON</p>
                     </div>
                     <div class="case-one__arrow">
-                        <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                        <a href="/track-details"><span class="icon-right-arrow"></span></a>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@
                     {{-- img href --}}
                     <a href="/track-details">
                     <div class="case-one__img">
-                        <img src="assets/images/track/track-2.png" alt="">
+                        <img src={{ asset("assets/images/track/track-2.png")}} alt="track-2">
                     </div>
                     <div class="case-one__content">
                         <h3 class="case-one__title"><a href="/track-details">
@@ -62,14 +62,14 @@
                 <!--Case One Single-->
                 <div class="case-one__single">
                     <div class="case-one__img">
-                        <img src="assets/images/track/track-3.png" alt="">
+                        <img src={{ asset("assets/images/track/track-3.png")}} alt="track-3">
                     </div>
                     <div class="case-one__content">
-                        <h3 class="case-one__title"><a href="case-details.html">Gamestop<br></a></h3>
+                        <h3 class="case-one__title"><a href="/track-details">Gamestop<br></a></h3>
                         <p class="case-one__tagline">NYSE: GME</p>
                     </div>
                     <div class="case-one__arrow">
-                        <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                        <a href="/track-details"><span class="icon-right-arrow"></span></a>
                     </div>
                 </div>
             </div>
@@ -77,14 +77,14 @@
                 <!--Case One Single-->
                 <div class="case-one__single">
                     <div class="case-one__img">
-                        <img src="assets/images/track/track-4.jpg" alt="">
+                        <img src={{ asset("assets/images/track/track-4.jpg")}} alt="track-4">
                     </div>
                     <div class="case-one__content">
-                        <h3 class="case-one__title"><a href="case-details.html">Moderna<br></a></h3>
+                        <h3 class="case-one__title"><a href="#">Moderna<br></a></h3>
                         <p class="case-one__tagline">NASDAQ: MRNA</p>
                     </div>
                     <div class="case-one__arrow">
-                        <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                        <a href="#"><span class="icon-right-arrow"></span></a>
                     </div>
                 </div>
             </div>
@@ -92,14 +92,14 @@
                 <!--Case One Single-->
                 <div class="case-one__single">
                     <div class="case-one__img">
-                        <img src="assets/images/track/track-5.jpg" alt="">
+                        <img src={{ asset("assets/images/track/track-5.jpg")}} alt="track-5">
                     </div>
                     <div class="case-one__content">
-                        <h3 class="case-one__title"><a href="case-details.html">Diamondback Energy<br></a></h3>
+                        <h3 class="case-one__title"><a href="#">Diamondback Energy<br></a></h3>
                         <p class="case-one__tagline">NASDAQ: FANG</p>
                     </div>
                     <div class="case-one__arrow">
-                        <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                        <a href="#"><span class="icon-right-arrow"></span></a>
                     </div>
                 </div>
             </div>
@@ -107,15 +107,15 @@
                 <!--Case One Single-->
                 <div class="case-one__single">
                     <div class="case-one__img">
-                        <img src="assets/images/track/track-6.png" alt="">
+                        <img src={{ asset("assets/images/track/track-6.png")}} alt="track-6">
                     </div>
                     <div class="case-one__content">
-                        <h3 class="case-one__title"><a href="case-details.html">Marathon Oil<br> </a>
+                        <h3 class="case-one__title"><a href="#">Marathon Oil<br> </a>
                         </h3>
                         <p class="case-one__tagline">NYSE: MRO</p>
                     </div>
                     <div class="case-one__arrow">
-                        <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                        <a href="#"><span class="icon-right-arrow"></span></a>
                     </div>
                 </div>
             </div>
@@ -123,15 +123,15 @@
                 <!--Case One Single-->
                 <div class="case-one__single">
                     <div class="case-one__img">
-                        <img src="assets/images/track/track-7.jpg" alt="">
+                        <img src={{ asset("assets/images/track/track-7.jpg")}} alt="track-7">
                     </div>
                     <div class="case-one__content">
-                        <h3 class="case-one__title"><a href="case-details.html">Riot Blockchain<br></a>
+                        <h3 class="case-one__title"><a href="#">Riot Blockchain<br></a>
                         </h3>
                         <p class="case-one__tagline">NASDAQ: RIOT</p>
                     </div>
                     <div class="case-one__arrow">
-                        <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                        <a href="#"><span class="icon-right-arrow"></span></a>
                     </div>
                 </div>
             </div>
@@ -139,15 +139,15 @@
                 <!--Case One Single-->
                 <div class="case-one__single">
                     <div class="case-one__img">
-                        <img src="assets/images/track/track-8.png" alt="">
+                        <img src={{ asset("assets/images/track/track-8.png")}} alt="track-8">
                     </div>
                     <div class="case-one__content">
-                        <h3 class="case-one__title"><a href="case-details.html">NIO<br> </a>
+                        <h3 class="case-one__title"><a href="#">NIO<br> </a>
                         </h3>
                         <p class="case-one__tagline">NYSE: NIO</p>
                     </div>
                     <div class="case-one__arrow">
-                        <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                        <a href="#"><span class="icon-right-arrow"></span></a>
                     </div>
                 </div>
             </div>
@@ -155,15 +155,15 @@
                 <!--Case One Single-->
                 <div class="case-one__single">
                     <div class="case-one__img">
-                        <img src="assets/images/track/track-9.png" alt="">
+                        <img src={{ asset("assets/images/track/track-9.png")}} alt="track-9">
                     </div>
                     <div class="case-one__content">
-                        <h3 class="case-one__title"><a href="case-details.html">Walt Disney Co.<br> </a>
+                        <h3 class="case-one__title"><a href="#">Walt Disney Co.<br> </a>
                         </h3>
                         <p class="case-one__tagline">NYSE: DIS</p>
                     </div>
                     <div class="case-one__arrow">
-                        <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                        <a href="#"><span class="icon-right-arrow"></span></a>
                     </div>
                 </div>
             </div>
@@ -171,15 +171,15 @@
                 <!--Case One Single-->
                 <div class="case-one__single">
                     <div class="case-one__img">
-                        <img src="assets/images/track/track-10.jpg" alt="">
+                        <img src={{ asset("assets/images/track/track-10.jpg")}} alt="track-10">
                     </div>
                     <div class="case-one__content">
-                        <h3 class="case-one__title"><a href="case-details.html">Zoom Video Communications Inc.<br> </a>
+                        <h3 class="case-one__title"><a href="#">Zoom Video Communications Inc.<br> </a>
                         </h3>
                         <p class="case-one__tagline">NASDAQ: ZM</p>
                     </div>
                     <div class="case-one__arrow">
-                        <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                        <a href="#"><span class="icon-right-arrow"></span></a>
                     </div>
                 </div>
             </div>
@@ -187,15 +187,15 @@
                 <!--Case One Single-->
                 <div class="case-one__single">
                     <div class="case-one__img">
-                        <img src="assets/images/track/track-11.png" alt="">
+                        <img src={{ asset("assets/images/track/track-11.png")}} alt="track-11">
                     </div>
                     <div class="case-one__content">
-                        <h3 class="case-one__title"><a href="case-details.html">Novavax<br> </a>
+                        <h3 class="case-one__title"><a href="#">Novavax<br> </a>
                         </h3>
                         <p class="case-one__tagline">NASDAQ: NVAX</p>
                     </div>
                     <div class="case-one__arrow">
-                        <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                        <a href="#"><span class="icon-right-arrow"></span></a>
                     </div>
                 </div>
             </div>
@@ -203,15 +203,15 @@
                 <!--Case One Single-->
                 <div class="case-one__single">
                     <div class="case-one__img">
-                        <img src="assets/images/track/track-12.png" alt="">
+                        <img src={{ asset("assets/images/track/track-12.png")}} alt="track-2">
                     </div>
                     <div class="case-one__content">
-                        <h3 class="case-one__title"><a href="case-details.html">PayPal Holdings Inc.<br> </a>
+                        <h3 class="case-one__title"><a href="#">PayPal Holdings Inc.<br> </a>
                         </h3>
                         <p class="case-one__tagline">NYSE: PYPL</p>
                     </div>
                     <div class="case-one__arrow">
-                        <a href="case-details.html"><span class="icon-right-arrow"></span></a>
+                        <a href="#"><span class="icon-right-arrow"></span></a>
                     </div>
                 </div>
             </div>
@@ -224,13 +224,13 @@
 <footer class="site-footer site-footer-three">
     <div class="site-footer__top">
         <div class="site-footer-shape-1"
-            style="background-image: url(assets/images/shapes/site-footer-shape-1.png);"></div>
+            style="background-image: url({{ asset("assets/images/shapes/site-footer-shape-1.png")}});"></div>
         <div class="container">
             <div class="row">
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                     <div class="footer-widget__column footer-widget__about">
                         <div class="footer-widget__logo">
-                            <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
+                            <a href="/"><img src={{ asset("assets/images/resources/logo-1.png")}} alt="logo"></a>
                         </div>
                         <div class="footer-widget__about-text-box">
                             <p class="footer-widget__about-text">Great Experience for Building Customers &
@@ -248,18 +248,18 @@
                     <div class="footer-widget__column footer-widget__explore clearfix">
                         <h3 class="footer-widget__title">Explore</h3>
                         <ul class="footer-widget__explore-list list-unstyled clearfix">
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="team.html">Meet our team</a></li>
-                            <li><a href="cases.html">Case stories</a></li>
-                            <li><a href="blog.html">Latest news</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="/about-us">About Us</a></li>
+                            <li><a href="/about-us#team">Meet our team</a></li>
+                            <li><a href="/financial-advice">Services</a></li>
+                            <li><a href="/blog-posts">Blog posts</a></li>
+                            <li><a href="/contact">Contact</a></li>
                         </ul>
                         <ul
                             class="footer-widget__explore-list footer-widget__explore-list-two list-unstyled clearfix">
-                            <li><a href="about.html">Support</a></li>
-                            <li><a href="about.html">Terms of use</a></li>
-                            <li><a href="about.html">Privacy policy</a></li>
-                            <li><a href="about.html">Help</a></li>
+                            <li><a href="#">Support</a></li>
+                            <li><a href="#">Terms of use</a></li>
+                            <li><a href="#">Privacy policy</a></li>
+                            <li><a href="/contact">Help</a></li>
                         </ul>
                     </div>
                 </div>
