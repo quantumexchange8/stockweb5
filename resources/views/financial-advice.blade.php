@@ -65,9 +65,9 @@
                             </div>
                             <h3 class="service-details__title">Financial Advice</h3>
                         </div>
-                        <p class="service-details__text-1">SPS Investment provides an extensive range of services, including strategic advice, mergers & acquisitions, capital raising, strategic consulting, and the implementation of financial solutions.</p>
+                        <p class="service-details__text-1">Oslim Investment provides an extensive range of services, including strategic advice, mergers & acquisitions, capital raising, strategic consulting, and the implementation of financial solutions.</p>
                         <h4 id="mergers" class="service-sub-details__title">Mergers and Acquisitions</h4> {{--New--}}
-                        <p class="service-details__text-2">At SPS Investment, our seasoned consultants possess vast experience in navigating corporations through different stages of the business cycle, 
+                        <p class="service-details__text-2">At Oslim Investment, our seasoned consultants possess vast experience in navigating corporations through different stages of the business cycle, 
                             from start-ups to mergers and expansions. 
                             We comprehend the intricacies of mergers and acquisitions and are committed to minimizing risks for all stakeholders. <br>
                             Through our varied financial solutions, we facilitate the complexities of mergers and acquisitions, ensuring a seamless transition. 
@@ -89,7 +89,7 @@
                         </li>
                     </ul> --}}
                     <h4 id="raising" class="service-sub-details__title">Raising Capital</h4>
-                    <p class="service-details__text-3">SPS Investment's steadfast dedication to our clients played a crucial role in our resilience during the devastating 
+                    <p class="service-details__text-3">Oslim Investment's steadfast dedication to our clients played a crucial role in our resilience during the devastating 
                         financial downturn of 2007. Leveraging our profound market understanding and capital access, we not only withstood the challenges but also prospered 
                         alongside our clients through strategic expansion and successful takeovers. <br>
                         Thanks to our enduring success, we have established valuable partnerships that empower us to share our wealth of knowledge and experience with our 
