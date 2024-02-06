@@ -432,18 +432,18 @@
                 <div class="news-one__single">
                     <div class="news-one__img">
                         <img src="assets/images/services/service-1.jpg" alt="">
-                        <a href="blog-details.html">
+                        <a href="/blogposts-rightsidebar">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
                     <div class="news-one__content">
                         <p class="news-one__sub-title">finance</p>
-                        <h3 class="news-one__title"><a href="blog-details.html">Oslim Investment:
+                        <h3 class="news-one__title"><a href="/blogposts-rightsidebar">Oslim Investment:
                             Navigating 2007's Financial Downturn</a></h3>
                         <ul class="list-unstyled news-one__meta">
-                            <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
                             <li><span>/</span></li>
-                            <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-comments"></i> 2 Comments</a>
                             </li>
                         </ul>
                     </div>
@@ -454,17 +454,17 @@
                 <div class="news-one__single">
                     <div class="news-one__img">
                         <img src="assets/images/backgrounds/marketing-bckg.jpg" alt="">
-                        <a href="blog-details.html">
+                        <a href="/blogposts-rightsidebar">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
                     <div class="news-one__content">
                         <p class="news-one__sub-title">marketing</p>
-                        <h3 class="news-one__title"><a href="blog-details.html">Diversified Investments, Maximum Returns</a></h3>
+                        <h3 class="news-one__title"><a href="/blogposts-rightsidebar">Diversified Investments, Maximum Returns</a></h3>
                         <ul class="list-unstyled news-one__meta">
-                            <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
                             <li><span>/</span></li>
-                            <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-comments"></i> 2 Comments</a>
                             </li>
                         </ul>
                     </div>
@@ -475,17 +475,17 @@
                 <div class="news-one__single">
                     <div class="news-one__img">
                         <img src="assets/images/services/service-2.jpg" alt="">
-                        <a href="blog-details.html">
+                        <a href="/blogposts-rightsidebar">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
                     <div class="news-one__content">
                         <p class="news-one__sub-title">marketing</p>
-                        <h3 class="news-one__title"><a href="blog-details.html">Empowering Clients Worldwide in Stock and Share Trading</a></h3>
+                        <h3 class="news-one__title"><a href="/blogposts-rightsidebar">Empowering Clients Worldwide in Stock and Share Trading</a></h3>
                         <ul class="list-unstyled news-one__meta">
-                            <li><a href="blog-details.html"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-clock"></i> 20 Oct, 2021</a></li>
                             <li><span>/</span></li>
-                            <li><a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
+                            <li><a href="/blogposts-rightsidebar"><i class="far fa-comments"></i> 2 Comments</a>
                             </li>
                         </ul>
                     </div>

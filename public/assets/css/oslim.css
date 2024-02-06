@@ -2831,6 +2831,7 @@ input[type="search"]::-webkit-search-results-decoration {
     transition-timing-function: ease-in-out;
     transition-duration: .7s;
     transition-property: all;
+    height: 350px;
 }
 
 .case-one__single:hover .case-one__img img {

@@ -274,7 +274,7 @@
                 <!--Case One Single-->
                 <div class="case-one__single">
                     <div class="case-one__img">
-                        <img src={{ asset("assets/images/resources/service-2.jpg")}} alt="shake hands" style="height:450px">
+                        <img src={{ asset("assets/images/resources/service-2.jpg")}} alt="shake hands">
                     </div>
                     <div class="case-one__content">
                         <p class="case-one__tagline">Financial</p>
@@ -289,7 +289,7 @@
                 <!--Case One Single-->
                 <div class="case-one__single">
                     <div class="case-one__img">
-                        <img src={{ asset("assets/images/resources/rasing-capital.jpg")}} alt="stock" style="height:450px">
+                        <img src={{ asset("assets/images/resources/rasing-capital.jpg")}} alt="stock">
                     </div>
                     <div class="case-one__content">
                         <p class="case-one__tagline">Marketing</p>
@@ -304,7 +304,7 @@
                 <!--Case One Single-->
                 <div class="case-one__single">
                     <div class="case-one__img">
-                        <img src={{ asset("assets/images/resources/stock.jpg")}} alt="data" style="height:450px">
+                        <img src={{ asset("assets/images/resources/stock.jpg")}} alt="data">
                     </div>
                     <div class="case-one__content">
                         <p class="case-one__tagline">Track</p>
@@ -688,7 +688,7 @@
                 <div class="news-one__single">
                     <div class="news-one__img">
                         <img src={{ asset("assets/images/services/service-1.jpg")}} alt="finance">
-                        <a href="blog-details.html">
+                        <a href="/blogposts-rightsidebar">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
@@ -710,7 +710,7 @@
                 <div class="news-one__single">
                     <div class="news-one__img">
                         <img src={{ asset("assets/images/backgrounds/marketing-bckg.jpg")}} alt="marketing">
-                        <a href="blog-details.html">
+                        <a href="/blogposts-rightsidebar">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
@@ -731,7 +731,7 @@
                 <div class="news-one__single">
                     <div class="news-one__img">
                         <img src={{ asset("assets/images/services/service-2.jpg")}} alt="marketing">
-                        <a href="blog-details.html">
+                        <a href="/blogposts-rightsidebar">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>

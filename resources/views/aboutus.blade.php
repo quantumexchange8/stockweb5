@@ -413,7 +413,7 @@
                         <div class="cta-one-shape-1 float-bob-x"></div>
                         <div class="cta-one-shape-2 float-bob-x-2"></div>
                         <h3 class="cta-one__title">We’re delivering the best <br> customer experience</h3>
-                        <a href="about.html" class="thm-btn cta-one__btn">Discover More</a>
+                        <a href="/contact" class="thm-btn cta-one__btn">Discover More</a>
                     </div>
                 </div>
             </div>
@@ -431,7 +431,7 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                     <div class="footer-widget__column footer-widget__about">
                         <div class="footer-widget__logo">
-                            <a href="index.html"><img src={{ asset("assets/images/resources/logo-1.png")}} alt=""></a>
+                            <a href="/"><img src={{ asset("assets/images/resources/logo-1.png")}} alt=""></a>
                         </div>
                         <div class="footer-widget__about-text-box">
                             <p class="footer-widget__about-text">Great Experience for Building Customers & Businesses</p>

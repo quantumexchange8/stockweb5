@@ -72,7 +72,7 @@
                 <div class="news-one__single">
                     <div class="news-one__img">
                         <img src={{ asset("assets/images/backgrounds/marketing-bckg.jpg")}} alt="marketing">
-                        <a href="blog-details.html">
+                        <a href="/blogposts-rightsidebar">
                             <span class="news-one__plus"></span>
                         </a>
                     </div>
